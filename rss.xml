@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[J. Eatley / Photographer]]></title>
-        <description><![CDATA[J. Eatley / Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[J. Eatley Photography]]></title>
+        <description><![CDATA[J. Eatley Photography]]></description>
+        <link>https://thegrid.ai/j-eatley-photographer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 18:02:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 03:57:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-eatley-photographer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi I am Jeff]]></title>
+            <description><![CDATA[<article><h1>Hi I am Jeff</h1><p>I am Jeffrey Eatley, a self taught photographer that began in film in 1996. I restarted my love of photography in 2009 with the purchase of a Nikon D90, my first digital SLR camera. Since then I have learned, researched and practice my hobby while hoping and dreaming of the day I can take it to the limit.  Full time photography is my goal.  Most say that the only way to make it in this career is to specialize.  That is hard for me since I have found myself shooting so many different things for many different clients. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/554087f5d56472ba9098018abf55dfd65b8864c3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/j-eatley-photographer/hi-i-am-jeff/index.html</link>
+            <guid isPermaLink="false">253eb31e-b235-4f3b-9d6d-cd24e88b6c95</guid>
+            <pubDate>Thu, 17 Dec 2015 03:57:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to my Matrix</p>]]></description>
-            <link>undefined6a5c870c-ea85-4a40-a349-7fa16899e21f/index.html</link>
+            <link>https://thegrid.ai/j-eatley-photographer/6a5c870c-ea85-4a40-a349-7fa16899e21f/index.html</link>
             <guid isPermaLink="false">6a5c870c-ea85-4a40-a349-7fa16899e21f</guid>
             <pubDate>Wed, 16 Dec 2015 18:01:19 GMT</pubDate>
         </item>
